@@ -1,6 +1,6 @@
 ## Financial News Sentiment Analysis
 
-This project focuses on analyzing sentiment in financial news articles to gauge market sentiment and recession-related fears in the U.S. equity market. Developed as part of an assignment for BNP Paribas, this project uses **language models (LLMs)** and financial data to create a sentiment analysis pipeline tailored for financial news.
+This project focuses on analyzing sentiment in financial news articles to gauge market sentiment and recession-related fears in the U.S. equity market. This project uses **language models (LLMs)** and financial data to create a sentiment analysis pipeline tailored for financial news.
 
 ### Features
 - **Data Collection**:
